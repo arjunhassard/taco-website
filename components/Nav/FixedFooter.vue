@@ -22,6 +22,7 @@
   <script setup>
   // Define partners data with optional URLs
   const partners = [
+    { name: 'BqETH', url: '' },
     { name: 'Ceramic', url: '' },
     { name: 'Waku', url: '' },
     { name: 'Textile', url: '' },
