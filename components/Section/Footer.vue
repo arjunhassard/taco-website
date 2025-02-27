@@ -75,7 +75,7 @@
         <a target="_blank" href="https://github.com/nucypher/taco-web"  class="text-center text-white font-mono font-normal mono-text">
           Repos</a>
        <!-- <a href="#editorials" class="text-center text-white font-mono font-normal mono-text">Editorials</a>-->
-        <a target="_blank" href="https://playground.nucypher.io/"  class="text-center text-white font-mono font-normal mono-text">Playground</a>
+        <a target="_blank" href="https://playground.taco.build/"  class="text-center text-white font-mono font-normal mono-text">Playground</a>
         <a target="_blank" href="https://discord.gg/buildwithtaco"  class="text-center text-white font-mono font-normal mono-text">Contact</a>
         <button @click="showCredits = !showCredits" class="text-center text-white font-mono font-normal mono-text">
             Credits
