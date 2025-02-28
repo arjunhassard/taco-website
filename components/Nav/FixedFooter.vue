@@ -22,14 +22,14 @@
   <script setup>
   // Define partners data with optional URLs
   const partners = [
-    { name: 'BqETH', url: '' },
-    { name: 'Ceramic', url: '' },
-    { name: 'Waku', url: '' },
-    { name: 'Textile', url: '' },
-    { name: 'Marlin', url: '' }, 
-    { name: 'Irys', url: '' },
-    { name: 'Zuzalu', url: '' },
-    { name: 'Holonym', url: '' }, // No URL, will render as plain text
-    { name: 'Masterfile', url: '' }
+    { name: 'BqETH', url: 'https://bqeth.com/' },
+    { name: 'Ceramic', url: 'https://ceramic.network/' },
+    { name: 'Recall', url: 'https://recall.network/' },
+    { name: 'Waku', url: 'https://waku.org/' },
+    { name: 'Marlin', url: 'https://www.marlin.org/' },
+    { name: 'Irys', url: 'https://irys.xyz/' },
+    { name: 'Zuzalu', url: 'https://www.zuzalu.city/' },
+    { name: 'Holonym', url: 'https://www.silk.sc/' }, // No URL, will render as plain text
+    { name: 'Masterfile', url: 'https://gonkbonk.com/' }
   ];
   </script>
